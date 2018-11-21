@@ -1,1 +1,1 @@
-результат по ссылке 
+результат по ссылке: https://htmlpreview.github.io/?https://github.com/GeekHub-FrontEnd-CMS-Online-8/Alex_Smirnov_HW_05/blob/master/index.html#serviceText
