@@ -13,6 +13,9 @@ i {
     padding: 0 !important;
   }
   #logo1 {
+    padding-top: 1rem;
+  }
+  #logo2 {
     padding-top: 4rem;
     font-size: 8em;
     border-bottom: 2px solid #1354df;
@@ -33,6 +36,9 @@ i {
   #serviceText {
     padding-top: 4rem;
     text-align: center;
+  }
+  #serviceText h2 {
+    font-size: 3rem;
   }
   #serviceText div {
     color: darkgray;
@@ -56,8 +62,9 @@ i {
   #portfolioText {
     text-align: center;
   }
-  #portfolioText h1 {
+  #portfolioText h2 {
     margin-top: 7rem;
+    font-size: 3em;
   }
   #portfolioText h5 {
     color: darkgrey;
@@ -101,8 +108,9 @@ i {
     color: white;
     text-align: center;
   }
-  .contacts h1 {
+  .contacts h2 {
     padding-top: 5rem;
+    font-size: 3rem;
   }
   .contacts h5 {
     margin-top: 1rem;
@@ -125,5 +133,6 @@ i {
     margin: 2rem 0 2rem 0;
   }
   #copyright {
-      color: darkgray;
+    color: darkgray;
   }
+  
